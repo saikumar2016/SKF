@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SKF.Controllers.QueryController",
+    "Method": "Ask",
+    "RelativePath": "api/Query",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SKF.Models.QueryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
